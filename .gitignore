@@ -142,3 +142,5 @@ yarn-error.log
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+src/main/resources/application.properties
